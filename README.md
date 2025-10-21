@@ -1,4 +1,4 @@
-# 🍽️ EatEase – Restaurant Recommendation System
+# 🍽️ EatEase – Restaurant Recommendation System [https://eatease.streamlit.app/]
 
 - EatEase is a restaurant recommendation web app that helps users find the best restaurants based on city, cuisine, cost, and rating.  
 - It uses a real Swiggy dataset and provides a clean, interactive interface.
